@@ -123,6 +123,26 @@
               <!-- end Associations -->
               {% endif %}
 
+
+              {% if site.resume_section_awards %}
+              <!-- begin Awards -->
+              <section class="content-section">
+
+                  <header class="section-header">
+                      <h2>Awards</h2>
+                  </header>
+
+                  {% for award in site.data.awards %}
+                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                      <h3> {% if award.url %} <a href="{{ award.url }}"> {{ award.name }} </a>{% else %}{{ award.name  }}{% endif %}</h3>
+                      <p>{{ award.role  }}  </p>
+                  </div>
+                  {% endfor %}
+
+              </section>
+              <!-- end Awards -->
+              {% endif %}
+
               {% if site.resume_section_grants %}
               <section class="content-section">
 
