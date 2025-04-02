@@ -16,57 +16,57 @@
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
-  source: IEEE IV'25. [C]
+  source: IV'25, IEEE. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
-  source: IEEE IV'25. [C]
+  source: IV'25, IEEE. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
-  source: IEEE IV'25. [C]
+  source: IV'25, IEEE. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
-  source: IEEE IV'25. [C]
+  source: IV'25, IEEE. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
-  source: IEEE IV'25. [C]
+  source: IV'25, IEEE. [C]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
-  source: SpatialDI'24. [C]
+  source: SpatialDI'24, Springer. [C]
 
 - title: DuMapper：Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps
   authors: Miao Fan, Jizhou Huang, Haifeng Wang
   url: 
-  source: CIKM'22. [C]
+  source: CIKM'22, ACM. [C]
 
 - title: Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps
   authors: Miao Fan, Yibo Sun, Jizhou Huang, Haifeng Wang, Ying Li
   url: 
-  source: KDD'21. [C]
+  source: KDD'21, ACM. [C]
 
 - title: HGAMN：Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps
   authors: Jizhou Huang, Haifeng Wang, Yibo Sun, Miao Fan, Zhengjie Huang, Chunyuan Yuan, Yawen Li
   url: 
-  source: KDD'21. [C]
+  source: KDD'21, ACM. [C]
 
 - title: Curriculum Meta-Learning for Next POI Recommendation
   authors: Yudong Chen, Xin Wang, Miao Fan, Jizhou Huang, Shengwen Yang, Wenwu Zhu
   url: 
-  source: KDD'21. [C]
+  source: KDD'21, ACM. [C]
 
 - title: DOLG：Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features
   authors: Min Yang, Dongliang He, Miao Fan, Baorong Shi, Xuetong Xue, Fu Li, Errui Ding, Jizhou Huang
   url: 
-  source: ICCV'21. [C]
+  source: ICCV'21, IEEE. [C]
 
 # - title: Semi-Supervised Variational Reasoning for Medical Dialogue Generation
 #   authors: Dongdong Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Miao Fan, Jun Ma, Maarten de Rijke
@@ -76,17 +76,17 @@
 - title: GEDIT：Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and Accessibility Extraction at Baidu Maps
   authors: Yibo Sun, Jizhou Huang, Yuanchun Yuan, Miao Fan, Haifeng Wang, Ming Liu, Bing Qin
   url: 
-  source: CIKM'21. [C]
+  source: CIKM'21, ACM. [C]
 
 - title: Understanding the Impact of the Covid-19 Pandemic on Transportation-related Behaviors with Human Mobility Data
   authors: Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Yibo Sun, Ying Li
   url: 
-  source: KDD'20. [C]
+  source: KDD'20, ACM. [C]
 
 - title: Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps
   authors: Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Ying Li
   url: 
-  source: KDD'20. [C]
+  source: KDD'20, ACM. [C]
 
 # - title: A Reinforced Semi-supervised Neural Network for Helpful Review Identification
 #   authors: Yue Feng, Miao Fan, Mingming Sun, Ping Li
@@ -106,7 +106,7 @@
 - title: MONOPOLY：Learning to Price Public Facilities for Revaluing Private Properties with Large-scale Urban Data
   authors: Miao Fan, Jizhou Huang, An Zhuo, Ying Li, Ping Li, Haifeng Wang
   url: 
-  source: CIKM'19. [C]
+  source: CIKM'19, ACM. [C]
 
 # - title: Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features
 #   authors: Miao Fan, Yeqi Bai, Mingming Sun, Ping Li
