@@ -8,12 +8,8 @@
 #   url: 
 #   source: Cognitive Computation, Springer. [J]
 
-- title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
-  authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
-  url: 
-  source: Transactions on Asian and Low-Resource Language Information Processing, ACM. [J]
 
-- title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
+- title: A Benchmark for Vision-Centric HD Mapping by V2I Systems 
   authors: Miao Fan, Yi Yao, Jianping Zhang, Xiangbo Song, Daihui Wu
   url: 
   source: IV'25, IEEE. [C]
@@ -82,6 +78,11 @@
   authors: Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Yibo Sun, Ying Li
   url: 
   source: KDD'20, ACM. [C]
+  
+- title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
+  authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
+  url: 
+  source: Transactions on Asian and Low-Resource Language Information Processing, ACM. [J]
 
 - title: Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps
   authors: Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Ying Li
