@@ -135,7 +135,7 @@
                   {% for award in site.data.awards %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
                       <h3> &bull; {% if award.url %} <a href="{{ award.url }}"> {{ award.name }} </a>{% else %}{{ award.name  }}{% endif %}</h3>
-                      <p>{{ award.role  }}  </p>
+                      <p>{{ award.role}} （{{ award.duration }}） </p>
                   </div>
                   {% endfor %}
 
