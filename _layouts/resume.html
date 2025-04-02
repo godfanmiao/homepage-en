@@ -114,7 +114,7 @@
 
                   {% for association in site.data.associations %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3> {% if association.url %} <a href="{{ association.url }}"> {{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
+                      <h3> &bull; {% if association.url %} <a href="{{ association.url }}"> {{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
                       <p>{{ association.role }}  </p>
                   </div>
                   {% endfor %}
@@ -134,7 +134,7 @@
 
                   {% for award in site.data.awards %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3> {% if award.url %} <a href="{{ award.url }}"> {{ award.name }} </a>{% else %}{{ award.name  }}{% endif %}</h3>
+                      <h3> &bull; {% if award.url %} <a href="{{ award.url }}"> {{ award.name }} </a>{% else %}{{ award.name  }}{% endif %}</h3>
                       <p>{{ award.role  }}  </p>
                   </div>
                   {% endfor %}
